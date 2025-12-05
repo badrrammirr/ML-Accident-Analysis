@@ -13,7 +13,7 @@ The analysis demonstrates competency in several core data science areas:
 * **Geospatial Analysis:** Visualized accident locations to identify and report on **geographical high-risk hotspots**.
 
 ## 3. Results and Key Insights
-The final model achieved a high prediction accuracy (0.9854545454545455) on the test set.
+The final model achieved a high prediction accuracy (*[0.9854545454545455]*) on the test set.
 
 * The geographical visualization effectively isolates clusters of high accident frequency, providing clear guidance for potential infrastructure improvements or targeted safety campaigns.
 * The use of a pipeline guarantees that the model receives data in the exact same format it was trained on, making it ready for deployment and automated scoring.
