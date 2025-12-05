@@ -24,5 +24,3 @@ The final model achieved a high prediction accuracy (*[0.9854545454545455]*) on 
 * **Machine Learning:** Scikit-learn (Pipeline, ColumnTransformer, RandomForestClassifier)
 * **Visualization:** Matplotlib
 
-![Accident Hotspots Map](hotspots.png)
-*Figure 1: Visualization showing the concentration of high-risk accident locations based on coordinates.*
